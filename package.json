@@ -1,0 +1,18 @@
+{
+  "name": "Personal-Website",
+  "version": "1.0.0",
+  "description": "Rafi Moldovsky's Personal Website",
+  "main": "index.html",
+  "scripts": 
+  {"start": "http-server"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafiMoldovsky/RafiMoldovsky.github.io.git"
+  },
+  "author": "Rafi Moldovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafiMoldovsky/RafiMoldovsky.github.io/issues"
+  },
+  "homepage": "https://github.com/RafiMoldovsky/RafiMoldovsky.github.io#readme"
+}
